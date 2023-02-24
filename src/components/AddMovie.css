@@ -1,0 +1,20 @@
+.addBox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    width: 500px;
+    margin-top:20px ;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.addBox input{
+    background: transparent;
+    border: 0;
+    outline: none;
+    margin-top: 5px;
+    background-color: rgb(240, 248, 255,1);
+    border-radius: 60px;
+    height: 40px;
+}
