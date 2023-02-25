@@ -6,7 +6,7 @@
 }
 .movieCard{
     width: 250px;
-    height:450px;
+    height:500px;
     background-color: aliceblue;
     border:  solid 1px grey ;
     border-radius: 5%;
@@ -34,4 +34,6 @@ span{
 }
 p{
     font-size: 12px;
+    height: 70px;
 }
+
